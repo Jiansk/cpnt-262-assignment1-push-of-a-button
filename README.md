@@ -5,7 +5,7 @@ Assingment name: Push of a Button
 
 Author: Jian Villanueva
 
-gh pages link: 
+gh pages link: https://jiansk.github.io/cpnt-262-assignment1-push-of-a-button/
 
 ## Attributions:
 
