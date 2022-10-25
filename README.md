@@ -1,7 +1,10 @@
 # cpnt-262-assignment1-push-of-a-button
 course: cpnt-262
+
 Assingment name: Push of a Button
+
 Author: Jian Villanueva
+
 gh pages link: 
 
 ## Attributions:
